@@ -1,3 +1,3 @@
-# Flow Examples
+# ML Examples
 
-Examples of training normalizing flows.
+Examples of code for training machine learning algorithms
