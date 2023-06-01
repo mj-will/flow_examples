@@ -1,5 +1,3 @@
-# ml examples
-
 MIT License
 
 Copyright (c) 2023 Michael J. Williams
